@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Methods.Global_Local_Method&apos; to &apos;Global_Local_method&apos;&#x0D;&#x0A;- Original project: &apos;JavaConcepts&apos;&#x0D;&#x0A;- Original element: &apos;Methods.Global_Local_Method&apos;&#x0D;&#x0A;- Renamed element: &apos;Methods.Global_Local_method&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Global_Local_Method&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Methods{Global_Local_Method.java[Global_Local_Method" matchStrategy="1" name="Global_Local_method" qualified="false" references="true" similarDeclarations="false" stamp="1730132871355" textual="true" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JDBC.MyMainClass&apos; to &apos;Class1&apos;&#x0D;&#x0A;- Original project: &apos;JavaConcepts&apos;&#x0D;&#x0A;- Original element: &apos;JDBC.MyMainClass&apos;&#x0D;&#x0A;- Renamed element: &apos;JDBC.Class1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyMainClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JDBC{MyMainClass.java[MyMainClass" matchStrategy="1" name="Class1" qualified="false" references="true" similarDeclarations="false" stamp="1728304541987" textual="true" version="1.0"/>
+</session>
